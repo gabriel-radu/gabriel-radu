@@ -1,3 +1,16 @@
+### Despre Mine
+<div align="center">
+<br/>
+<br/>
+Numele meu este Gabriel, am 16 ani si imi doresc sa lucrez cca un full-stack web developer.<br/>
+Eu folosesc Windows si Arch Linux/NixOS linux. <br/>
+Lucrez in js, react si c#.
+</div>
+
+<br/>
+
+### Skillurile Mele
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -13,7 +26,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
+</div>
 
 
 ### Backend  
@@ -36,7 +49,7 @@
 </td></tr></table>  
 
 <br/>  
-
+</div>
 
 ## Connect with me  
 <div align="center">
